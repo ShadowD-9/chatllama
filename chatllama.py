@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/19Z2shzE6IejyFPKd8TEdnzhGFWoOfiag
 """
 
-pip install streamlit pypdf langchain torch accelerate bitsandbytes transformers sentence_transformers faiss-cpu ctransformers gunicorn
+#pip install streamlit pypdf langchain torch accelerate bitsandbytes transformers sentence_transformers faiss-cpu ctransformers gunicorn
 
 import streamlit as st
 import tempfile   # temporary file
